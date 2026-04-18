@@ -11,4 +11,4 @@ Champion spawns should no longer drop loot, or a corpse, or raise from the dead.
 Fixed an unequip bug when putting on items in your house.
 Humanoid Scourge NPC damage was fixed to be less spikey.  Also removed blackrock from their repertoire.  This allows us to use their logic without one shotting players, so look for changes in Scourge dungeon. (Scourge Battle Masters, Plague, Infiltrators, Terminators, Nemesis's, archangels)
 Exceptional bows should no longer have worse quality than normal bows.
-Casting weaponry should no longer do zero damage if you are on the same square as the mob
+Casting weaponry should no longer do zero damage if you are on the same square as the mob.
